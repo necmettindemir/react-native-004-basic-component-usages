@@ -1,7 +1,7 @@
 
 -- Base usage of components in React Native
 
-This application show some base approaches to component usages in React Native.
+This application shows some base approaches to component usages in React Native.
 
 
 In this application Expo is used.
